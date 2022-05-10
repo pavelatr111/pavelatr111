@@ -1,8 +1,9 @@
 ## Hi there 👋
+Привет, Меня зовут Паша, я начинающий веб-разработчик. Начал свое обучение менее года назад и меня затянуло.
 
 
+ <img align="right" alt="GIF" src="gif/code.gif" width="500" height="320" padding-bottom="20" />
 
- <img align="right" alt="GIF" src="gif/code.gif" width="500" height="320" />
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&lago-color=E9D54D)
