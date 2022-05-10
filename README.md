@@ -1,8 +1,8 @@
-## Hi there 👋
+ <h1  align="center">Hi there 👋</h1>
 Привет, Меня зовут Паша, я начинающий веб-разработчик. Начал свое обучение менее года назад и меня затянуло.
 
 
- <img align="right" alt="GIF" src="gif/code.gif" width="500" height="500" aligen="center" />
+ <img align="right" alt="GIF" src="gif/code.gif" width="500" height="500"  align="center" aligen="center" />
 
 
 ### Languages and Tools
