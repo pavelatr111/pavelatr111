@@ -2,8 +2,8 @@
 
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+ <img align="right" alt="GIF" src="gif/code.gif" width="500" height="320" />
+
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&lago-color=E9D54D)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
