@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 
+### :fire: My Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelatr111&&hide=stars&show_icons=true&&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
