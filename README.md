@@ -2,7 +2,9 @@
 Привет, Меня зовут Паша, я начинающий веб-разработчик. Начал свое обучение менее года назад.
 
 
- <img align="right" alt="GIF" src="gif/code.gif" width="500" height="500" aligen="center" />
+ <div id="header" align="center">
+  <img src=https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif width="100"/>
+</div>
 
 
 ### Languages and Tools
