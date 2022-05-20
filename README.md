@@ -21,7 +21,7 @@
 
 ### :fire: My Stats :
 <div id=stats >
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelatr111&&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelatr111&&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelatr111)](https://github.com/anuraghazra/github-readme-stats)
 </div>
