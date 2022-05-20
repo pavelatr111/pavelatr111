@@ -3,7 +3,7 @@
 
 
  <div id="header" align="center">
-  <img src=https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif width="300"/>
+  <img src=https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif width="100%"/>
  
  ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-04356C?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pokergang1)
