@@ -4,6 +4,9 @@
 
 ![Pavel's GitHub Banner](./img/Logo.png)
 
+
+ <div id="header" align="center">
+ 
  ### Follow me
  
 [![Telegram](https://img.shields.io/badge/Telegram-04356C?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pokergang1)
@@ -27,7 +30,6 @@
 ### &#x1f4c8; GitHub Stats
 
 <br>
-<<<<<<< HEAD
 
 <a href="https://github.com/pavelatr111">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelatr111&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -40,16 +42,3 @@
 <br>
 <br>
 
-=======
-
-<a href="https://github.com/pavelatr111">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelatr111&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/pavelatr111">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=pavelatr111&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
->>>>>>> 9afe5487c616f9169655625c5b5c9adca3298ef6
-
-<br>
-<br>
